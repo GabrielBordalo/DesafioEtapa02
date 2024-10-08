@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4c392628-3634-41cc-815b-e2edd6762caa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesafioEtapa02/EstacionamentoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioEtapa02/EstacionamentoTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesafioEtapa02/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioEtapa02/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioRU/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioRU/Comida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioRU/Ru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioRU/Ru.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GabrielBordalo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GabrielBordalo/DesafioEtapa02.git",
+    "accountId": "aadac5c0-9f2a-43a5-a010-e82aae26eb4c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>

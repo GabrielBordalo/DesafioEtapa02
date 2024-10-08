@@ -11,14 +11,14 @@ public class EstacionamentoTeste {
 
             Scanner entrada = new Scanner(System.in);
 
-            while (!operacao.equalsIgnoreCase("F")) {
+            while (!operacao.equalsIgnoreCase("E")) {
 
-                System.out.println("A - Gerar ticket.  B - Pagar ticket. \n C - Ver saldo.  D - Status. \n E - Lista de Tickets.  F - Sair.");
+                System.out.println("A - Gerar ticket.  B - Pagar ticket. \n C - Ver saldo.  D - Status. \n E - Sair.");
                 System.out.println("Selecione uma operação: ");
                 operacao = entrada.next();
 
 
-                if (operacao.equalsIgnoreCase("F")){
+                if (operacao.equalsIgnoreCase("E")){
                     System.out.println("Encerrando...");
                     break;
                 }
@@ -45,10 +45,6 @@ public class EstacionamentoTeste {
 
                         break;
 
-                    case "E":
-                        ticket.listaTickets();
-
-                        break;
                 }
             }
             entrada.close();

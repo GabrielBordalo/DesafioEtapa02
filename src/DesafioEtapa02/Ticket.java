@@ -70,19 +70,6 @@ public class Ticket {
         }
     }
 
-    public void listaTickets() {
-        if (armazenamento.isEmpty()) {
-            out.println("Nenhum ticket foi gerado.");
-        } else {
-            out.println("==== Lista de Tickets ====");
-            int contador = 1;
-            for (Map.Entry<Integer, Ticket> entry : armazenamento.entrySet()) {
-                Ticket t = entry.getValue();
-                out.println("Ticket " + contador++ + ", Pago: " + t.isPago());
-            }
-        }
-    }
-
     public double getPreco() {
         return preco;
     }
